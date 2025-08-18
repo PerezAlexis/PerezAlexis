@@ -1,10 +1,5 @@
 # 👋 ¡Hola! Soy Alexis  
 
-💻 Estudiante de **Desarrollo de Software** y apasionado por la tecnología.  
-🚀 Actualmente trabajando en proyectos como **Súbete**, una app estilo Uber para compartir viajes.  
-🔧 También me dedico a la **reparación de celulares** y estoy ampliando mi experiencia en electrónica y desbloqueo de software.  
-
----
 
 ## 🔥 Un poco sobre mí
 - 🌱 Aprendiendo y practicando **PHP, JavaScript, SQL y Kotlin**.  
