@@ -1,4 +1,45 @@
-Hola,soy Alexis👋
+# 👋 ¡Hola! Soy Alexis  
+
+💻 Estudiante de **Desarrollo de Software** y apasionado por la tecnología.  
+🚀 Actualmente trabajando en proyectos como **Súbete**, una app estilo Uber para compartir viajes.  
+🔧 También me dedico a la **reparación de celulares** y estoy ampliando mi experiencia en electrónica y desbloqueo de software.  
+
+---
+
+## 🔥 Un poco sobre mí
+- 🌱 Aprendiendo y practicando **PHP, JavaScript, SQL y Kotlin**.  
+- ⚡ Me gustan los proyectos que mezclan **backend + frontend** con bases de datos sólidas.  
+- 🎯 Mi objetivo es crecer como **desarrollador fullstack** y aportar en proyectos reales.  
+- 💡 Fan de los retos: si no sé algo, me gusta **aprenderlo en el camino**.  
+
+---
+
+## 🚀 Tecnologías que uso
+✅ PHP | JavaScript | SQL | MySQL | phpMyAdmin  
+✅ Visual Basic .NET | C#  
+✅ HTML | CSS | Bootstrap  
+✅ Git & GitHub | Colab | Python (data analysis básico)  
+
+---
+
+## 📌 Proyectos destacados
+- 🔹 **Súbete** → Plataforma para compartir viajes y repartir costos.  
+- 🔹 **Gestor de eventos** → Sistema web con inscripciones, pagos y compras.  
+- 🔹 📊 Pequeños proyectos de **análisis de datos** con Python + Excel.  
+
+---
+
+## 📫 Cómo contactarme
+- ✉️ alexisperez.dev@example.com *(poné tu mail real)*  
+- 💼 [LinkedIn](https://linkedin.com/in/tuusuario) *(si tenés)*  
+- 🐙 ¡Acá mismo en GitHub!  
+
+---
+
+✨ _"El código no es solo líneas, es la forma de transformar ideas en realidad."_  
+
+
+
 
 <!--
 **PerezAlexis/PerezAlexis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
