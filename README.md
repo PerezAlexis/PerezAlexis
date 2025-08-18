@@ -31,7 +31,7 @@
 
 ## 📫 Cómo contactarme
 - ✉️ perezalexis9816@gmail.com
-- 💼 [LinkedIn](www.linkedin.com/in/alexis-ezequiel-perez-1b84641b9)
+- 💼 [LinkedIn](https://www.linkedin.com/in/alexis-ezequiel-perez-1b84641b9/)
 - 🐙 ¡Acá mismo en GitHub!  
 
 ---
