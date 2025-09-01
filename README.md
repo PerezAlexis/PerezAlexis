@@ -1,5 +1,8 @@
 # 👋 ¡Hola! Soy Alexis  
 
+<img width="1536" height="1024" alt="ChatGPT Image 1 sept 2025, 04_08_16 p m" src="https://github.com/user-attachments/assets/552f046a-db89-4b7e-846c-e48dd05485b4" />
+
+
 
 ## 🔥 Un poco sobre mí
 - 🌱 Aprendiendo y practicando **PHP, JavaScript, SQL y Kotlin**.  
