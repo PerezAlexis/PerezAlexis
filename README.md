@@ -33,6 +33,7 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/alexis-ezequiel-perez-1b84641b9/)
 - 🐙 ¡Acá mismo en GitHub!
 - 📱  3573-414234
+- https://perezalexis.github.io/CV/
 
 
 ---
