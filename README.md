@@ -2,7 +2,7 @@
 
 
 
-<img width="1536" height="1024" alt="ChatGPT Image 1 sept 2025, 04_08_16 p m" src="https://github.com/user-attachments/assets/4e94d91d-53ea-42a5-bb49-85da790a322c" />
+<img width="1536" height="584" alt="aaaa" src="https://github.com/user-attachments/assets/659d3dfa-2be3-4889-ab1d-6689a0a9582f" />
 
 
 ## 🔥 Un poco sobre mí
